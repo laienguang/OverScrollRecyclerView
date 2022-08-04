@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">OverscrollRecyclerview</string>
+    <string name="title_list">listview</string>
+    <string name="title_recycler">recyclerview</string>
+</resources>

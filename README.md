@@ -1,1 +1,3 @@
 # OverScrollRecyclerView
+这是一个recyclerview回弹控件，目前市面上的回弹基本用的是嵌套layout和重写touch的方式，本控件利用RecyclerView的EdgeEffect作为切入点获取相关回弹参数，
+再利用dispatchNestedPreScroll做为逻辑注入点，参考老版本listview内的回弹实现，做了回弹效果对齐
